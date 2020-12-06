@@ -12,6 +12,12 @@ https://media.ccc.de/v/gpn18-95-howto-moving-objects
 
 ---
 
+## CAN Support
+
+The STM32 supports CAN. Support coming soon!
+
+---
+
 ## Build Instructions
 
 Here are detailed build instructions for some finished projects.
